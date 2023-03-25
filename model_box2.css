@@ -18,6 +18,14 @@
                              }
 
 
+
+                        li :hover{display: flex;
+                            
+                            background-color: white;
+                            color: #a306b6;
+                             }
+
+
                         a {
                             display: flex;
                             text-decoration: none;
@@ -27,14 +35,9 @@
                              }
 
                         
+                    
 
-                        .active {
-                            border: 2px solid white;
-                            color: #a306b6;
-                            background-color: white;
-                            font-weight: 600;
-                             }
-
+                        
 
                         h1 {
                             background-color: rgb(221, 225, 228);
@@ -67,6 +70,7 @@
                             display: flex;
                             margin-left: 20%;
                             font-weight: 600;
+                            margin-bottom: 20px;
                              }
 
 
@@ -79,9 +83,10 @@
                             margin-left: 20%;
                             background-color: rgb(221, 225, 228);
                             border: 0ch;
-                            width: 50%;
+                            width: 60%;
                             border-radius: 15px;
                             padding: 20px;
+                            margin-bottom: 3%;
                              }
 
 
@@ -108,3 +113,6 @@
                            margin-top: 60px;
                            background-color: gray;
                              } 
+
+
+                              
